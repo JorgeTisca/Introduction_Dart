@@ -8,3 +8,4 @@ main() {
 printNumber(int number) {
   print("Number Value: "+ number.toString());
 }
+
